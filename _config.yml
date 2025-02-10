@@ -23,7 +23,7 @@ bilibili_link: https://space.bilibili.com/2053448938
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/figure2.png
+avatar: ./assets/img/figure1.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
