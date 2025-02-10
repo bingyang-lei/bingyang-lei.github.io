@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Undergraduate student at Nanjing University, majoring in Computer Science and Technology.
+I am an undergraduate student at Nanjing University(NJU), majoring in Computer Science and Technology.
 
 ## Research Interests
 

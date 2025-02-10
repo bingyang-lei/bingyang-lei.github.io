@@ -44,8 +44,7 @@
         {% endif %}
 
         <h1>{{ site.title }}</h1>
-
-        <h1>{{ site.title_zh }}</h1>
+        <h2 style="font-family: KaiTi;">{{ site.title_zh }}</h2>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
@@ -68,12 +67,6 @@
         </a>  
         {% endif %}
 
-        {% if site.bilibili_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.bilibili_link }}">
-          <i class="fab fa-youtube" style="font-size:1.2rem"></i>
-        </a>  
-        {% endif %}
-
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
@@ -90,6 +83,12 @@
         <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
           <i class="fab fa-linkedin"></i>
         </a>
+        {% endif %}
+        
+        {% if site.bilibili_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.bilibili_link }}">
+          <i class="fab fa-youtube" style="font-size:1.2rem"></i>
+        </a>  
         {% endif %}
 
         {% if site.twitter %}
