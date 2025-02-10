@@ -11,9 +11,9 @@ I am a Undergraduate student at Nanjing University, majoring in Computer Science
 - **AI4science :** AI for biology, AI for chemistry(drug design)
 <!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
-## News
+<!-- ## News
 
-- TBA
+- TBA -->
 
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
