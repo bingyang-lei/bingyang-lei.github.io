@@ -8,8 +8,14 @@ I am an undergraduate student at Nanjing University(NJU), majoring in Computer S
 
 ## Research Interests
 
-- **AI4science :** AI for biology, AI for chemistry(drug design)
+- **LLM & LLM applications :** Foundation LLM, Multimodal LLM
+- **AI4science :** AI for biology, AI for chemistry(especially for drug design)
 <!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
+
+## Some Links
+
+- [My Github](https://github.com/bingyang-lei)
+- [My Personal Blog](https://bingyang-lei.github.io/blog/)
 
 <!-- ## News
 
