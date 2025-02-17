@@ -6,6 +6,8 @@ layout: homepage
 
 I am an undergraduate student at Nanjing University(NJU), majoring in Computer Science and Technology.
 
+After three years of study, I have discovered a growing interest in the field of Artificial Intelligence (AI) within Computer Science, and I aspire to pursue a doctoral degree in this field in the future.
+
 ## Research Interests
 
 - **LLM & LLM applications :** Foundation LLM, Multimodal LLM
@@ -15,7 +17,7 @@ I am an undergraduate student at Nanjing University(NJU), majoring in Computer S
 ## Some Links
 
 - [My Github](https://github.com/bingyang-lei)
-- [My Personal Blog](https://bingyang-lei.github.io/blog/)
+- [My Personal Blog](https://blog.haodilei.top/)
 
 <!-- ## News
 
