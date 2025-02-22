@@ -6,7 +6,7 @@ layout: homepage
 
 I am an undergraduate student at Nanjing University(NJU), majoring in Computer Science and Technology.
 
-After three years of study, I have discovered a growing interest in the field of Artificial Intelligence (AI) within Computer Science, and I aspire to pursue a doctoral degree in this field in the future.
+After three years of study, I have discovered a growing interest in the field of Artificial Intelligence (AI) within Computer Science, and I aspire to pursue a doctoral or master's degree in this field in the future.
 
 ## Research Interests
 
