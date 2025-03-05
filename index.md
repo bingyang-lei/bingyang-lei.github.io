@@ -11,7 +11,7 @@ After three years of study, I have discovered a growing interest in the field of
 ## Research Interests
 
 - **LLM & LLM applications :** Foundation LLM, Multimodal LLM
-- **AI4science :** AI for biology, AI for chemistry(especially for drug design)
+- **AI4science :** AI for biology, AI for drug design
 <!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## Some Links
