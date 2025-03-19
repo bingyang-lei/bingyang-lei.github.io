@@ -10,8 +10,8 @@ After three years of study, I have discovered a growing interest in the field of
 
 ## Research Interests
 
-- **LLM & LLM applications :** Multimodal LLM and its interpretability.
-- **AI4science :** Protein Large Language Models, AI for biology.
+- **Machnie Learning and LLM :** Multimodal LLM and its interpretability, Protein Large Language Models
+<!-- - **AI4science :** , AI for biology. -->
 <!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## Some Links
