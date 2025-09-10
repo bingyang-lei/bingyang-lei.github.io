@@ -31,7 +31,7 @@ After three years of study, I have discovered a growing interest in the field of
 
 ## Working Experiences
 
-- *2025.03 - now*, NLP Group, advised by Prof. Yue Zhang, Westlake University.
+- *2025.03 - 2025.09*, NLP Group, advised by Prof. Yue Zhang, Westlake University.
 - *2024.07 - 2025.04*, Knowledge Garden Group, advised by Prof. Wei Hu, Nanjing University.
 
 
