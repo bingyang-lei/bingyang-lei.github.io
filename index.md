@@ -23,7 +23,9 @@ My research interests mainly focus on Reasoning and Agentic LLM, such as long co
 ## Selected Publications
 
 [ProtSAE: Disentangling and Interpreting Protein Language Models via Semantically-Guided Sparse Autoencoders](https://arxiv.org/pdf/2509.05309v1)
+
 Xiangyu Liu, Haodi Lei, Yi Liu, Yang Liu, Wei Hu
+
 PrePrint
 
 ## Honors and Awards
