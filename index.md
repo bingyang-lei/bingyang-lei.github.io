@@ -40,6 +40,7 @@ PrePrint
 - *2025.03 - 2025.09*, NLP Group, advised by Prof. Yue Zhang, Westlake University.
 - *2024.07 - 2025.04*, Knowledge Garden Group, advised by Prof. Wei Hu, Nanjing University.
 
+{% include_relative _includes/publications.md %}
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
