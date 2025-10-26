@@ -20,6 +20,12 @@ My research interests mainly focus on Reasoning and Agentic LLM, such as long co
 - *2025.10*: Honored to receive the 2025 National Scholarship of China.
 - *2025.07*: I am joining WestLake NLP group as a on site research intern.
 
+## Selected Publications
+
+[ProtSAE: Disentangling and Interpreting Protein Language Models via Semantically-Guided Sparse Autoencoders](https://arxiv.org/pdf/2509.05309v1)
+Xiangyu Liu, Haodi Lei, Yi Liu, Yang Liu, Wei Hu
+PrePrint
+
 ## Honors and Awards
 
 - *2025.01* Provincial college student innovation project, with 5000 yuan of funding support. 
