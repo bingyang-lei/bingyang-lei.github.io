@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Nice to meet you! I am a 4th-year undergraduate student at Nanjing University(NJU), majoring in Computer Science and Technology. And also a 2026 Fall Ph.D candidate in School of Artificial Intelligence at Shanghai Jiao Tong University (SJTU) and Shanghai Artificial Intelligence Laboratory, advised by Prof. [Bowen Zhou](https://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am also fortunate to work closely with Dr. [Ganqu Cui](https://cgq15.github.io/).
+Nice to meet you! I am a 4th-year undergraduate student at Nanjing University(NJU), majoring in Computer Science and Technology. And also a incoming 26 Fall Ph.D student in School of Artificial Intelligence at Shanghai Jiao Tong University (SJTU) and Shanghai AI Laboratory, advised by Prof. [Bowen Zhou](https://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am also fortunate to work closely with Dr. [Ganqu Cui](https://cgq15.github.io/).
 
 My research interests mainly focus on Reasoning and Agentic LLM, such as long context understanding, tool use, and how to enhance LLM's reasoning ability and efficiency. If you are interested in these topics, feel free to contact me!
 
