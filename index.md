@@ -4,23 +4,26 @@ layout: homepage
 
 ## About Me
 
-Nice to meet you! I am a 4th-year undergraduate student at Nanjing University(NJU), majoring in Computer Science and Technology. And also a incoming 26 Fall Ph.D student in School of Artificial Intelligence at Shanghai Jiao Tong University (SJTU) and Shanghai AI Laboratory, advised by Prof. [Bowen Zhou](https://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am also fortunate to work closely with Dr. [Ganqu Cui](https://cgq15.github.io/).
+Nice to meet you! I am a 4th-year undergraduate student at Nanjing University(NJU), majoring in Computer Science and Technology. And also a incoming 26 Fall Ph.D student in School of Artificial Intelligence at Shanghai Jiao Tong University (SJTU) and Shanghai AI Laboratory, advised by Prof. [Ning Ding](https://www.stingning.cn/) and Prof. [Bowen Zhou](https://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am also fortunate to work closely with Dr. [Yafu Li](https://yafuly.github.io/yafuly/), Dr. [Yun Luo](https://luoxiaoheics.github.io/), and Dr. [Ganqu Cui](https://cgq15.github.io/).
 
-My research interests mainly focus on Reasoning and Agentic LLM, such as long context understanding, tool use, and how to enhance LLM's reasoning ability and efficiency. If you are interested in these topics, feel free to contact me!
+My research interests mainly focus on Reasoning and Efficiency of LLMs, such as long context understanding, tool use, and how to enhance LLM's reasoning ability and efficiency. If you are interested in these topics, feel free to contact me!
 
 <!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## Some Links
 
+- [My Google Scholar](https://scholar.google.com/citations?user=32JOcqYAAAAJ&hl=en&oi=ao)
 - [My Github](https://github.com/bingyang-lei)
 - [My Personal Blog](https://blog.haodilei.top/)
 
+
 ## News
 
+- *2025.11*: Joined Shanghai AI Lab as a research intern.
 - *2025.10*: Honored to receive the 2025 National Scholarship of China.
 - *2025.07*: I am joining WestLake NLP group as a on site research intern.
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
 ## Honors and Awards
 
