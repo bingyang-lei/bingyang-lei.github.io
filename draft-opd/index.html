@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Draft-OPD</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #172033;
+      --muted: #5f6b7a;
+      --blue: #4f9be8;
+      --line: #e7ebf0;
+      --soft: #f6f8fb;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--ink);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    main {
+      width: min(940px, calc(100% - 40px));
+      margin: 0 auto;
+      padding: 64px 0 72px;
+    }
+
+    .eyebrow {
+      color: var(--blue);
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      font-size: 0.82rem;
+    }
+
+    h1 {
+      margin: 10px 0 16px;
+      font-size: clamp(2.25rem, 5vw, 4rem);
+      line-height: 1.05;
+      color: #0d3473;
+    }
+
+    .lead {
+      max-width: 780px;
+      font-size: 1.15rem;
+      color: var(--muted);
+      margin: 0 0 28px;
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin: 28px 0 40px;
+    }
+
+    .links a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      padding: 8px 16px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: #176fc5;
+      background: var(--soft);
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    section {
+      border-top: 1px solid var(--line);
+      padding-top: 28px;
+      margin-top: 28px;
+    }
+
+    h2 {
+      color: #0d3473;
+      margin: 0 0 12px;
+      font-size: 1.45rem;
+    }
+
+    ul {
+      padding-left: 1.2rem;
+    }
+
+    footer {
+      margin-top: 48px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="eyebrow">Project Page</div>
+    <h1>Draft-OPD: On-Policy Distillation for Speculative Draft Models</h1>
+    <p class="lead">
+      Draft-OPD is a post-training framework for speculative draft models.
+      This temporary project page will host the paper, code, models, figures,
+      and additional resources.
+    </p>
+
+    <div class="links">
+      <a href="https://github.com/bingyang-lei/Draft-OPD">GitHub Code</a>
+      <a href="https://huggingface.co/collections/bingyang-lei/draft-opd">HuggingFace Models</a>
+    </div>
+
+    <section>
+      <h2>Overview</h2>
+      <p>
+        Speculative decoding accelerates large language model inference by
+        verifying draft-model proposals in parallel. Draft-OPD improves draft
+        models by training them on verification-time states and errors exposed
+        during online drafting.
+      </p>
+    </section>
+
+    <section>
+      <h2>Resources</h2>
+      <ul>
+        <li>Paper: coming soon.</li>
+        <li>Code: available on GitHub.</li>
+        <li>Models: available on HuggingFace.</li>
+      </ul>
+    </section>
+
+    <footer>
+      This is a placeholder page for Draft-OPD. Content and visual assets will
+      be updated before release.
+    </footer>
+  </main>
+</body>
+</html>
