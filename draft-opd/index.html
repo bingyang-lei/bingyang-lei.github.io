@@ -396,29 +396,22 @@
       font-weight: 800;
     }
 
-    .resources-grid {
-      display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 16px;
-      margin-top: 18px;
-    }
-
-    .resource-card {
+    .citation-box {
       border: 1px solid var(--line);
       border-radius: 8px;
-      padding: 18px;
       background: var(--soft);
+      margin-top: 18px;
+      overflow-x: auto;
     }
 
-    .resource-card h3 {
-      margin: 0 0 8px;
-      font-size: 1.08rem;
-    }
-
-    .resource-card p {
+    .citation-box pre {
       margin: 0;
-      color: var(--muted);
-      font-size: 0.96rem;
+      padding: 18px;
+      color: #263952;
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 0.9rem;
+      line-height: 1.55;
+      white-space: pre;
     }
 
     footer {
@@ -445,8 +438,7 @@
         padding-top: 46px;
       }
 
-      .feature-grid,
-      .resources-grid {
+      .feature-grid {
         grid-template-columns: 1fr;
       }
     }
@@ -505,7 +497,7 @@
         <a href="#overview">Overview</a>
         <a href="#method">Method</a>
         <a href="#results">Results</a>
-        <a href="#resources">Resources</a>
+        <a href="#citation">Citation</a>
       </div>
     </nav>
   </header>
@@ -894,22 +886,19 @@
       </p>
     </section>
 
-    <section id="resources" aria-labelledby="resources-title">
-      <p class="section-kicker">Resources</p>
-      <h2 id="resources-title">Paper, Code, and Models</h2>
-      <div class="resources-grid">
-        <a class="resource-card" href="https://arxiv.org/abs/2605.29343">
-          <h3>Paper</h3>
-          <p>Read the arXiv paper for the full method, experiments, and analysis.</p>
-        </a>
-        <a class="resource-card" href="https://github.com/bingyang-lei/Draft-OPD">
-          <h3>Code</h3>
-          <p>Training, evaluation, and deployment resources for Draft-OPD.</p>
-        </a>
-        <a class="resource-card" href="https://huggingface.co/collections/bingyang-lei/draft-opd">
-          <h3>Models</h3>
-          <p>Draft-OPD model collection hosted on Hugging Face.</p>
-        </a>
+    <section id="citation" aria-labelledby="citation-title">
+      <p class="section-kicker">Citation</p>
+      <h2 id="citation-title">BibTeX</h2>
+      <div class="citation-box">
+<pre><code>@misc{lei2026draftopdonpolicydistillationspeculative,
+      title={Draft-OPD: On-Policy Distillation for Speculative Draft Models}, 
+      author={Haodi Lei and Yafy Li and Haoran Zhang and Shunkai Zhang and Qianjia Cheng and Xiaoye Qu and Ganqu Cui and Bowen Zhou and Ning Ding and Yun Luo and Yu Cheng},
+      year={2026},
+      eprint={2605.29343},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.29343}, 
+}</code></pre>
       </div>
     </section>
   </main>
