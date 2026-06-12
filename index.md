@@ -28,7 +28,7 @@ My research interests mainly focus on Reasoning and Efficiency of LLMs, such as 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./draft-opd/assets/method.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    <abbr class="badge">Preprint</abbr>
+    <!-- <abbr class="badge">Preprint</abbr> -->
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="./draft-opd/">Draft-OPD: On-Policy Distillation for Speculative Draft Models</a></div>
@@ -52,7 +52,7 @@ My research interests mainly focus on Reasoning and Efficiency of LLMs, such as 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <!-- 图片待补充：把图放到 assets/img/ 下，取消下一行注释并填好文件名即可 -->
     <img src="./assets/img/su01.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    <abbr class="badge">Preprint</abbr>
+    <!-- <abbr class="badge">Preprint</abbr> -->
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://simplified-reasoning.github.io/SU-01/">Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling</a></div>
@@ -76,7 +76,7 @@ My research interests mainly focus on Reasoning and Efficiency of LLMs, such as 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <!-- 图片待补充：把图放到 assets/img/ 下，取消下一行注释并填好文件名即可 -->
     <img src="./assets/img/pi-bench-2.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    <abbr class="badge">Preprint</abbr>
+    <!-- <abbr class="badge">Preprint</abbr> -->
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://simplified-reasoning.github.io/Pi-Bench/">π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows</a></div>
