@@ -1,7 +1,11 @@
 _site
+.bundle
 .sass-cache
-Gemfile.lock
-*.gem
-.DS_Store
 .jekyll-cache
-git-update.sh
+.jekyll-metadata
+.DS_store
+.tweet-cache
+assets/libs/
+node_modules/
+vendor
+.idea
