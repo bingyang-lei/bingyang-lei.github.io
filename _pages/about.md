@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: fig4.jpg
+  image: figure-cat.png
   image_circular: true
   more_info: >
     <p>Undergraduate Student</p>
@@ -25,8 +25,6 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-
-## About Me
 
 Nice to meet you! I am a 4th-year undergraduate student at [Nanjing University](https://www.nju.edu.cn/), and also an incoming 2026 Fall Ph.D. student in the School of Artificial Intelligence at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (SJTU) and Shanghai AI Laboratory, advised by Prof. [Ning Ding](https://www.stingning.cn/) and Prof. [Bowen Zhou](https://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am also fortunate to work closely with Dr. [Yafu Li](https://yafuly.github.io/), Dr. [Yun Luo](https://luoxiaoheics.github.io/), and Dr. [Ganqu Cui](https://cgq15.github.io/).
 
