@@ -27,14 +27,12 @@ My research interests mainly focus on Reasoning and Efficiency of LLMs, such as 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./draft-opd/assets/method.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    <!-- <abbr class="badge">Preprint</abbr> -->
+    <img src="./draft-opd/assets/method.png" class="teaser img-fluid z-depth-1" style="width:100%; height:40%;">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="./draft-opd/">Draft-OPD: On-Policy Distillation for Speculative Draft Models</a></div>
       <div class="author"><strong>Haodi Lei</strong>, Yafu Li, Haoran Zhang, Shunkai Zhang, Qianjia Cheng, Xiaoye Qu, Ganqu Cui, Bowen Zhou, Ning Ding, Yun Luo, Yu Cheng</div>
       <div class="periodical"><em>Preprint, 2026.</em></div>
-      <!-- <div style="margin-top: 6px; font-size: 0.92em; color: #6b6b6b; line-height: 1.45;">Post-trains speculative draft models on the states they actually induce during verification. By replaying draft-induced errors from target-assisted rollouts, it improves the lossless decoding speed of thinking models while preserving the target model's output distribution.</div> -->
     <div class="links">
       <a href="https://arxiv.org/abs/2605.29343" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/bingyang-lei/Draft-OPD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -58,8 +56,7 @@ My research interests mainly focus on Reasoning and Efficiency of LLMs, such as 
       <div class="title"><a href="https://simplified-reasoning.github.io/SU-01/">Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling</a></div>
       <!-- <div class="author">Yafu Li, Runzhe Zhan, Haoran Zhang, Shunkai Zhang, Yizhuo Li, Zhilin Wang, Jiacheng Chen, Futing Wang, Xuyang Hu, Yuchen Fan, Bangjie Xu, Yucheng Su, Xinmiao Han, Chenxi Li, <strong>Haodi Lei</strong>, Yufeng Zhao, Zejin Lin, Qianjia Cheng, Tong Zhu, Xiaoye Qu, Ganqu Cui, Peng Ye, Yun Luo, Zhouchen Lin, Yu Qiao, Bowen Zhou, Ning Ding, Yu Cheng</div> -->
       <div class="periodical"><em>Preprint, 2026.</em></div>
-      <!-- <div style="margin-top: 6px; font-size: 0.92em; color: #6b6b6b; line-height: 1.45;">SU-01, a 30B-A3B reasoning model, reaches gold-medal level across both physics (IPhO) and math Olympiads (IMO) through simple and unified scaling, performing comparably to GPT 5.5, Gemini 3.1 Pro and DeepSeek V3.2 Speciale.</div> -->
-    <div class="links">
+   <div class="links">
       <a href="https://arxiv.org/abs/2605.13301" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/Simplified-Reasoning/SU-01" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://huggingface.co/Simplified-Reasoning/SU-01" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
@@ -76,13 +73,11 @@ My research interests mainly focus on Reasoning and Efficiency of LLMs, such as 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <!-- 图片待补充：把图放到 assets/img/ 下，取消下一行注释并填好文件名即可 -->
     <img src="./assets/img/pi-bench-2.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    <!-- <abbr class="badge">Preprint</abbr> -->
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://simplified-reasoning.github.io/Pi-Bench/">π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows</a></div>
       <div class="author">Haoran Zhang, Luxin Xu, Zhilin Wang, Runquan Gui, Shunkai Zhang, <strong>Haodi Lei</strong>, Zihao He, Bingsu He, Chicheng Qin, Tong Zhu, Xiaoye Qu, Yang Yang, Yu Cheng, Yafu Li</div>
       <div class="periodical"><em>Preprint, 2026.</em></div>
-      <!-- <div style="margin-top: 6px; font-size: 0.92em; color: #6b6b6b; line-height: 1.45;">A benchmark that evaluates whether proactive personal assistant agents can infer hidden user requirements in long-horizon, multi-turn workflows, measuring both Proactivity (reducing the user's specification burden) and Completeness (satisfying explicit and implicit requirements).</div> -->
     <div class="links">
       <a href="https://arxiv.org/abs/2605.14678" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/Simplified-Reasoning/Pi-Bench" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
