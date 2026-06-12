@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+      - codex-al-folio-migration
     paths:
       - "assets/**"
       - "_sass/**"
