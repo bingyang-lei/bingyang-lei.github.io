@@ -7,10 +7,10 @@ profile:
   align: right
   image: figure-cat.png
   image_circular: true
-  more_info: >
-    <p>Undergraduate Student</p>
-    <p><a href="https://www.nju.edu.cn/en/">Nanjing University</a></p>
-    <p><a href="mailto:haodilei@gmail.com">haodilei@gmail.com</a></p>
+  # more_info: >
+  #   <p>Undergraduate Student</p>
+  #   <p><a href="https://www.nju.edu.cn/en/">Nanjing University</a></p>
+  #   <p><a href="mailto:haodilei@gmail.com">haodilei@gmail.com</a></p>
 
 selected_papers: true
 social: false
@@ -32,8 +32,8 @@ My research interests mainly focus on Reasoning and Efficiency of LLMs, such as 
 
 ## News
 
-- *2026.06* We released **[Draft-OPD](/draft-opd/)**, the first on-policy distillation method for speculative draft models, achieving 5x lossless acceleration for thinking models across diverse tasks.
-- *2026.05* Our team released a [30B-A3B reasoning model](https://simplified-reasoning.github.io/SU-01/) that reaches gold-medal level across both physics (IPhO) and math Olympiad (IMO) evaluations, comparable to GPT 5.5, Gemini 3.1 Pro and DeepSeek V3.2 Speciale.
-- *2025.11* Joined Shanghai AI Lab as a research intern.
-- *2025.10* Honored to receive the 2025 National Scholarship of China.
-- *2025.07* I am joining WestLake NLP group as an on-site research intern.
+- *2026.06*   We released **[Draft-OPD](/draft-opd/)**, the first on-policy distillation method for speculative draft models, achieving 5x lossless acceleration for thinking models across diverse tasks.
+- *2026.05*   Our team released a [30B-A3B reasoning model](https://simplified-reasoning.github.io/SU-01/) that reaches gold-medal level across both physics (IPhO) and math Olympiad (IMO) evaluations, comparable to GPT 5.5, Gemini 3.1 Pro and DeepSeek V3.2 Speciale.
+- *2025.11*   Joined Shanghai AI Lab as a research intern.
+- *2025.10*   Honored to receive the 2025 National Scholarship of China.
+- *2025.07*   I am joining WestLake NLP group as an on-site research intern.
