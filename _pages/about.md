@@ -32,8 +32,8 @@ My research interests mainly focus on Reasoning and Efficiency of LLMs, such as 
 
 ## News
 
-- *2026.06*&nbsp;&nbsp;&nbsp;We released **[Draft-OPD](/draft-opd/)**, the first on-policy distillation method for speculative draft models, achieving 5x lossless acceleration for thinking models across diverse tasks.
-- *2026.05*&nbsp;&nbsp;&nbsp;Our team released a [30B-A3B reasoning model](https://simplified-reasoning.github.io/SU-01/) that reaches gold-medal level across both physics (IPhO) and math Olympiad (IMO) evaluations, comparable to GPT 5.5, Gemini 3.1 Pro and DeepSeek V3.2 Speciale.
-- *2025.11*&nbsp;&nbsp;&nbsp;Joined Shanghai AI Lab as a research intern.
-- *2025.10*&nbsp;&nbsp;&nbsp;Honored to receive the 2025 National Scholarship of China.
-- *2025.07*&nbsp;&nbsp;&nbsp;I am joining WestLake NLP group as an on-site research intern.
+- **2026.06**&nbsp;&nbsp;&nbsp;We released **[Draft-OPD](/draft-opd/)**, the first on-policy distillation method for speculative draft models, achieving 5x lossless acceleration for thinking models across diverse tasks.
+- **2026.05**&nbsp;&nbsp;&nbsp;Our team released a [30B-A3B reasoning model](https://simplified-reasoning.github.io/SU-01/) that reaches gold-medal level across both physics (IPhO) and math Olympiad (IMO) evaluations, comparable to GPT 5.5, Gemini 3.1 Pro and DeepSeek V3.2 Speciale.
+- **2025.11**&nbsp;&nbsp;&nbsp;Joined Shanghai AI Lab as a research intern.
+- **2025.10**&nbsp;&nbsp;&nbsp;Honored to receive the 2025 National Scholarship of China.
+- **2025.07**&nbsp;&nbsp;&nbsp;I am joining WestLake NLP group as an on-site research intern.
