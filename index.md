@@ -27,7 +27,7 @@ My research interests mainly focus on Reasoning and Efficiency of LLMs, such as 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./draft-opd/assets/intro.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    <img src="./draft-opd/assets/method.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     <abbr class="badge">Preprint</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
