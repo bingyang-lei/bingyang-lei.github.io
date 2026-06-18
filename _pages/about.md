@@ -13,6 +13,7 @@ profile:
   #   <p><a href="mailto:haodilei@gmail.com">haodilei@gmail.com</a></p>
 
 selected_papers: true
+visitor_map: true
 social: false
 
 announcements:

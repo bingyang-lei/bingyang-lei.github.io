@@ -1,0 +1,31 @@
+{% assign visitor_map = site.visitor_map %}
+{% assign has_iframe = false %}
+{% assign has_embed = false %}
+
+{% if visitor_map.iframe_url and visitor_map.iframe_url != blank %}
+  {% assign has_iframe = true %}
+{% endif %}
+
+{% if visitor_map.embed_code and visitor_map.embed_code != blank %}
+  {% assign has_embed = true %}
+{% endif %}
+
+{% if visitor_map and visitor_map.enabled %}
+  {% if has_iframe or has_embed %}
+    <section class="visitor-map">
+      <h2>{{ visitor_map.title | default: 'Visitor Map' }}</h2>
+      <div class="visitor-map-widget">
+        {% if has_embed %}
+          {{ visitor_map.embed_code }}
+        {% elsif has_iframe %}
+          <iframe
+            src="{{ visitor_map.iframe_url }}"
+            title="{{ visitor_map.title | default: 'Visitor Map' }}"
+            loading="lazy"
+            referrerpolicy="strict-origin-when-cross-origin"
+          ></iframe>
+        {% endif %}
+      </div>
+    </section>
+  {% endif %}
+{% endif %}

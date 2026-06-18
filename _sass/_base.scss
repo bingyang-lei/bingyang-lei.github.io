@@ -406,6 +406,27 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Visitor map (home)
+
+.visitor-map {
+  margin-top: 2rem;
+
+  .visitor-map-widget {
+    margin-top: 0.75rem;
+    overflow: hidden;
+
+    iframe {
+      max-width: 100%;
+      border: 0;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+}
+
 // Social (bottom)
 
 .social {
