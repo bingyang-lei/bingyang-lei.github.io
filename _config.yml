@@ -76,14 +76,13 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
-# Visitor map widget for the home page. Static GitHub Pages sites need a third-party
-# widget, such as ClustrMaps, FlagCounter, or RevolverMaps, to collect visitor locations.
-visitor_map:
-  enabled: true
-  title: Visitor Map
-  iframe_url:
-  embed_code: |
-    <iframe src="https://revolvermaps2.com/widget/43997b50-52a5-481a-bb11-64f8e3accacc" width="320" height="320" style="border:0;" loading="lazy"></iframe>
+# Visitor map widget for the home page. Disabled for now.
+# visitor_map:
+#   enabled: false
+#   title: Visitor Map
+#   iframe_url:
+#   embed_code: |
+#     <iframe src="https://revolvermaps2.com/widget/43997b50-52a5-481a-bb11-64f8e3accacc" width="320" height="320" style="border:0;" loading="lazy"></iframe>
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)
