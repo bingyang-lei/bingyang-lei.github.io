@@ -83,7 +83,7 @@ visitor_map:
   title: Visitor Map
   iframe_url:
   embed_code: |
-    <iframe src="https://revolvermaps2.com/widget/cae46012-ca8d-4fa1-a6d4-dd0403da9823" width="320" height="320" style="border:0;" loading="lazy"></iframe>
+    <iframe src="https://revolvermaps2.com/widget/43997b50-52a5-481a-bb11-64f8e3accacc" width="320" height="320" style="border:0;" loading="lazy"></iframe>
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)
